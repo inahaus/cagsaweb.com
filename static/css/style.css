@@ -484,7 +484,7 @@ footer {
 }
 
 .footer-9-map {
-  height: 500px;
+  height: 450px;
 }
 
 @media (max-width: 767px) {
@@ -1058,7 +1058,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
 }
 @media (max-width: 480px) {
   .header-1-sub .page-transitions .caption {
-    bottom: 73px;
+    bottom: 27px;
   }
 }
 .header-1-sub .page-transitions .controls > * {
@@ -1085,6 +1085,11 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   color: rgba(0, 0, 0, 0.4);
 }
 @media (max-width: 480px) {
+
+  .footer-9-map {
+  height: 340px;
+}
+
   .header-1-sub .page-transitions .controls > * {
     top: 363px;
   }
