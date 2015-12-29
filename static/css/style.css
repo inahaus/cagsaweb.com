@@ -940,7 +940,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
 }
 @media (max-width: 480px) {
   .header-1-sub h3 {
-    font-size: 26px;
+    font-size: 22px;
     font-weight: normal;
     color: #ffffff;
     margin: 0 0 24px 0;
@@ -963,7 +963,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
 }
 @media (max-width: 480px) {
   .header-1-sub .lead {
-    font-size: 22px;
+    font-size: 19px;
     font-weight: normal;
     color: #ffffff;
   }
@@ -1056,6 +1056,11 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   right: 0;
   bottom: 140px;
 }
+@media (max-width: 660px) {
+  .header-1-sub .page-transitions .caption {
+    bottom: 80px;
+  }
+}
 @media (max-width: 480px) {
   .header-1-sub .page-transitions .caption {
     bottom: 27px;
@@ -1084,6 +1089,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
 .header-1-sub .page-transitions .controls > *.active {
   color: rgba(0, 0, 0, 0.4);
 }
+
 @media (max-width: 480px) {
 
   .footer-9-map {
@@ -1541,7 +1547,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
 }
 @media (max-width: 768px) {
   .content-6 {
-    padding-top: 80px;
+    padding-top: 40px;
     padding-bottom: 80px;
   }
 }
@@ -1632,7 +1638,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
 }
 @media (max-width: 480px) {
   .content-6 {
-    padding-bottom: 210px;
+    /* padding-bottom: 210px; */
   }
 }
 .content-6 .features > * {
