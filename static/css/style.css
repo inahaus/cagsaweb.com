@@ -1167,10 +1167,10 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
-  background: #f2f3f4;
+  /*background: #f2f3f4;*/
   position: relative;
   overflow: hidden;
-  height: 250px;
+  /*height: 250px;*/
 }
 .content-2 .player .btn-play {
   -webkit-box-sizing: border-box;
