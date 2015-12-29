@@ -1120,7 +1120,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
  * Content 2 stylesheet  
  * */
 .content-2 {
-  padding-top: 130px;
+  padding-top: 80px;
   /*padding-bottom: 130px;*/
   position: relative;
 }
@@ -1171,6 +1171,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   position: relative;
   overflow: hidden;
   /*height: 250px;*/
+
 }
 .content-2 .player .btn-play {
   -webkit-box-sizing: border-box;
