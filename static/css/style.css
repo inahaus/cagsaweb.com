@@ -867,6 +867,13 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   color: #ffffff;
 }
 
+/* firma */
+.firma {
+  margin-bottom: 30px;
+
+
+}
+
 /* naming */
 .header-1 .navbar .brand img:first-child {
   float: left;
@@ -1056,6 +1063,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   right: 0;
   bottom: 140px;
 }
+
 @media (max-width: 660px) {
   .header-1-sub .page-transitions .caption {
     bottom: 80px;
